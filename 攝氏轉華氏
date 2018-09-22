@@ -8,7 +8,6 @@ public class Main {
         float C=temp. nextFloat();
         System.out.print('=');
         float F=C*9/5+32;
-        System.out.print(F);
-        System.out.println('℉');
+        System.out.print(F+"℉");
     }
 }
